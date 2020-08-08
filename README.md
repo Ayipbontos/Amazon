@@ -23,3 +23,19 @@ $ pip2 install requests
 
 
 $ python2 amazon.py
+
+
+
+
+Username : BdKr28
+Password : fuckadnan
+
+
+Video link : 
+
+
+Contact :-- 
+
+
+Telegram : https://t.me/bdkr2 
+YouTube : https://www.youtube.com/channel/UCvLyz94122sn94uZNXsUW6g

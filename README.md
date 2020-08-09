@@ -28,14 +28,20 @@ $ python2 amazon.py
 
 
 Username : BdKr28
+
+
 Password : fuckadnan
 
 
 Video link : 
+https://youtu.be/gg079pXhsYA
+
 
 
 Contact :-- 
 
 
 Telegram : https://t.me/bdkr2 
+
+
 YouTube : https://www.youtube.com/channel/UCvLyz94122sn94uZNXsUW6g
